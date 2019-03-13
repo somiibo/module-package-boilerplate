@@ -1,0 +1,19 @@
+{
+  "package": {
+    "name": "Example Module Package",
+    "description": "This is my first module package",
+    "author": "ITW",
+    "version": "1.0.0",
+    "license": "MIT"
+  },
+  "modules": {
+    "skeleton": {
+      "name": "Reddit Google Search",
+      "etc": "Reddit Google Search"
+    }
+  },
+  "settings": {
+    "defaults": {}
+  }
+
+}
