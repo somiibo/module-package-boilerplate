@@ -11,6 +11,7 @@ root/
   ├── modules/
   │   ├── <module-name>/
   │   │   ├── instructions.html # instructions for the end user displayed before the module begins
+  │   │   ├── interface.html # if the module does not navigate web pages you can alternatively display an interface for the user
   │   │   ├── main.js # instructions for the end user displayed before the module begins
   │   │   ├── settings.html # settings for the module
   │   ├── ...
