@@ -1,19 +1,22 @@
 {
-  "package": {
-    "name": "Example Module Package",
-    "description": "This is my first module package",
-    "author": "ITW",
-    "version": "1.0.0",
-    "license": "MIT"
-  },
-  "modules": {
-    "skeleton": {
-      "name": "Reddit Google Search",
-      "etc": "Reddit Google Search"
+  "id": "863d3118-dee7-4002-a45f-464ae71e3322",
+  "title": "Package Boilerplate",
+  "description": "A starting point for your first module package.",
+  "author": "Your Name",
+  "modules": [
+    {
+      "name": "module-1",
+      "title": "My first module",
+      "icon": "fa-code",
+      "description": "A starting point for your first module.",
+      "id": "c41c1553-1ef4-4cf8-820e-df861aefd675",
+      "version": "1.0.0",
+      "versionRequired": "0.2.900",
+      "status": "online",
+      "url": "",
+      "width": 1280,
+      "height": 720,
+      "userAgent": ""
     }
-  },
-  "settings": {
-    "defaults": {}
-  }
-
+  ]
 }
