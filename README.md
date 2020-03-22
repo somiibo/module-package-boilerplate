@@ -1,4 +1,4 @@
-# Example Module Package for Somiibo
+# Module Package Boilerplate for Somiibo
 A starting point for creating your own module packages for Somiibo.
 
 ## File Structure
