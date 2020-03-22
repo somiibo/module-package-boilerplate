@@ -48,4 +48,4 @@ For each module in your package you need to have a folder for the assets that pe
 - **module.js**: The logic of the module itself. This script will be executed in a Node.js environment.
 - **settings.html**: The interface for the settings page. This interface will be displayed in an HTML environment. Scripts are not allowed in this file.
 - **settings.js**: The logic of the settings interface. This script will be executed in a Node.js environment.
-- **settings.json**: The meta data for the settings.
+- **settings.json**: The meta data for the settings fields including defaults, min, max, etc...
