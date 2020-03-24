@@ -3,6 +3,7 @@
   "title": "Package Boilerplate",
   "description": "A starting point for your first module package.",
   "author": "Your Name",
+  "repository": "https://github.com/username/repo.git",
   "modules": [
     {
       "id": "c41c1553-1ef4-4cf8-820e-df861aefd675",
